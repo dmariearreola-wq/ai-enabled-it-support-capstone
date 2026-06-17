@@ -21,13 +21,11 @@ This capstone project demonstrates the setup and documentation of a basic IT sup
 - Screenshots and technical documentation
 
 ## Project Phases
-1. Downloading and installing VirtualBox
-2. Downloading required files
-3. Setting up Windows Server
-4. Setting up Windows 11 client
-5. Configuring file services
-6. Running scripts
-7. Documenting issues and resolutions
+- [Phase 1: Setup](docs/phase-1-setup.md)
+- Phase 2: Windows Server Configuration
+- Phase 3: Windows 11 Client Configuration
+- Phase 4: File Services and Baseline Configuration
+- Phase 5: Script Execution and Troubleshooting
 
 ## Key Skills Demonstrated
 - Virtual machine setup
