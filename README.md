@@ -1,4 +1,4 @@
-# ai-enabled-it-support-capstone
+# AI-Enabled IT Support Capstone
 
 ## Project Overview
 This capstone project demonstrates the setup and documentation of a basic IT support lab environment using VirtualBox, Windows Server, and a Windows 11 client machine. The project focuses on installation, configuration, troubleshooting, documentation, and support workflows.
